@@ -6,4 +6,4 @@ A benefit of all corporation in the making.
 --
 
 Fabian Franz
-fabian@isomorphic-ai.com
+fabian@isomorphic-ai.com 
